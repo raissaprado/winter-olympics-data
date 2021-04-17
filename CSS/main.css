@@ -1,0 +1,50 @@
+/* quick reset*/
+
+* { 
+norder: none;
+padding: 2;
+margin: 4;
+}
+
+body {
+	font-family: ‘Arial’, ‘helvetica’, sans-serif;
+	line-height: 1.3
+	font-size: 16px;
+}
+
+.hidden {
+	display: none;
+}
+
+h2 {
+	font-size: 20px;
+	font-weight: bolder;
+	color: rgb(15, 82, 87); 
+}
+
+h3 {
+	font-size: 18px;
+	font-weight: bold;
+	color: rgb(167, 59, 114);
+}
+
+figure {
+  padding: 4px;
+  margin: auto;
+}
+
+figcaption {
+   color: white;
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+
+
+.data-graphic {
+	border: thin dashed blue;
+	widht: 30%
+}
+
+.funny-gif {
+	border: thin dashed blue;
+	widht: 10%

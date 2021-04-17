@@ -1,7 +1,8 @@
-# HW3 - MMED 1054.
+# HW3 - Winter Olympic Website - MMED 1054.
 
 # Project Description
-Winter Olympics website, for MMED-1054 Class.
+Homework for MMED-1054 Class.
+This website shows the hypothesis of the growth of the women by the winter olympics organization.
 
 # MIT Licence
 Copyright (c) 2021 Raissa Prado
